@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChargerProtector</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_protection_mode">ProtectionMode</string>
+    <string name="button_start_protection">Start Protection!</string>
+    <string name="button_Im_back">I\'m back!</string>
+    <string name="phone_being_protected">Your Phone is Being Protected...</string>
+    <string name="please_connect_charger">Please connect your charger</string>
+</resources>
